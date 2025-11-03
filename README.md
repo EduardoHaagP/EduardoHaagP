@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to my Github profile 👋
 
+🎓 Sou estudante de **Engenharia da Computação** na **UTFPR - Campus Apucarana**, apaixonado por tecnologia, programação e soluções criativas.  
+💡 Tenho interesse em **desenvolvimento de software**, **inteligência artificial** e **otimização de sistemas**.
+
+---
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohaagp&layout=compact)
