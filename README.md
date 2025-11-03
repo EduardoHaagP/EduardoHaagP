@@ -1,6 +1,6 @@
 ## Welcome to my Github profile 👋
 
-🧑‍💻 Me chamo Eduardo Haag
+🧑‍💻 Me chamo Eduardo Haag.
 🎓 Sou estudante de **Engenharia da Computação** na **UTFPR - Campus Apucarana**, apaixonado por tecnologia, programação e soluções criativas.  
 💡 Tenho interesse em **desenvolvimento de software**, **desenvolvimento de jogos**,**inteligência artificial** e **otimização de sistemas**.
 
